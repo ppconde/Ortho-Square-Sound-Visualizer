@@ -2,5 +2,4 @@
 
 This sketch consists of a 3D array of boxes that is syncronized with the audio of Four tet - Planet
 
-![[Imgur Image]](https://imgur.com/a/8vegfcb.jpg)
-
+[Imgur](https://i.imgur.com/ED72pF9.png)
