@@ -2,5 +2,5 @@
 
 This sketch consists of a 3D array of boxes that is syncronized with the audio of Four tet - Planet
 
-![alt text](https://imgur.com/a/8vegfcb)
+![Ortho-Square-Sound-Visualizer](https://imgur.com/a/8vegfcb)
 
